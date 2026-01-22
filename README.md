@@ -1,1 +1,1 @@
-# Analog-Electronics
+# Analog-Electronics IT24SP Kyrylo Luhinin
